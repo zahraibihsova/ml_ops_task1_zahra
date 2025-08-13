@@ -1,4 +1,3 @@
-# ml_ops_task1_zahra
 ├── .github/
 │   └── workflows/
 │       └── ci.yml             <- GitHub Actions for CI checks

@@ -1,3 +1,7 @@
+My ML Project
+Reproducible ML project scaffold powered by uv
+
+Structure
 ├── .github/
 │   └── workflows/
 │       └── ci.yml             <- GitHub Actions for CI checks
@@ -15,4 +19,3 @@
 ├── predict_model.py
 ├── train_model.py
 └── setup.py
-

@@ -1,17 +1,15 @@
-#this script is for loading model and using it to make predictions
+# this script is for loading model and using it to make predictions
 import pickle
-from sklearn.linear_model import LogisticRegression 
 
 # Assumeing this is the previously trained model
-model_filename = 'trained_model.pkl'
+model_filename = "trained_model.pkl"
 
 try:
     # Open the file in binary read mode ('rb')
-    with open(model_filename, 'rb') as file:
+    with open(model_filename, "rb") as file:
         # Load the model using pickle.load()
         loaded_model = pickle.load(file)
     print(f"Model successfully loaded from {model_filename}")
-
 
 
 except FileNotFoundError:

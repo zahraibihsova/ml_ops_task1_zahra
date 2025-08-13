@@ -18,6 +18,29 @@ Reproducible ML project scaffold powered by uv
 ├── workflows
 │   └── ci.yml <- GITHUB ACTIONS FOR CI CHECKS
 ├── data
+│   ├── .gitkeep
+├── models
+│   ├── predict_model.py
+│   ├── train_model.py
+├── notebooks
+│   ├── .gitkeep
+├── reports
+│   ├── .gitkeep
+├── src
+│   ├── data
+│       ├── .gitkeep
+│   ├── features
+│       ├── .gitkeep
+│   ├── models
+│       ├── predict_model.py
+│       ├── train_model.py
+│   ├── visualization
+│       ├── .gitkeep
+│       ├── __init__.py
+│   ├── eda.py
+│   ├── feature_engineering.py
+│   ├── model_selection.py
+├── data
 │   ├── external <- data from third party sources
 │   ├── interim <- intermediate data THAT has been TRANSFORMED
 │   └── processed <- the final, canonical DATA sets for modeling

@@ -1,6 +1,7 @@
 # My ML Project
 
-[![CI Build](https://img.shields.io/github/actions/workflow/status/zahraibihsova/ml_ops_task1_zahra/ci.ymllabel=CI%20Build)](https://github.com/zahraibihsova/ml_ops_task1_zahra/actions)
+https://img.shields.io/github/actions/workflow/status/zahraibishova/ml_ops_task1_zahra/ci.yml?label=CI%20Build
+
 ![Status](https://img.shields.io/badge/passing-brightgreen)
 ![License](https://img.shields.io/badge/License-Apache%202.0-blue)
 ![Python](https://img.shields.io/badge/Python-3.12-green)

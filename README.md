@@ -21,15 +21,19 @@ Reproducible ML project scaffold powered by uv
 │   ├── external <- data from third party sources
 │   ├── interim <- intermediate data THAT has been TRANSFORMED
 │   └── processed <- the final, canonical DATA sets for modeling
-├── models <- trained and serialized MODELS, MODEL predictions or model summaries
+├── models
+│   ├── predict_model.py 
+│   ├── train_model.py
 ├── notebooks <- jupyter notebooks
 ├── reports <- GENERATED analysis as HTML PDF LaTeX etc
 │   └── figures <- generated graphics AND figures to be USED in reporting
 ├── .gitignore <- git IGNORES
 ├── LICENSE
-├── README.md <- the top-level readme for DEVELOPERS
-├── predict_model.py
-├── train_model.py
-├── setup.py
-└── readme.md
+├── README.md <- readme for understanding
+├── place_data.csv
+├── zahra-ibishova-eda.ipynb
+├── zahra-ibishova-fe1.ipynb
+├── zahra-ibishova-fe2 (1).ipynb
+└── zahra-ibishova-trainmodel.ipynb
+
 ```

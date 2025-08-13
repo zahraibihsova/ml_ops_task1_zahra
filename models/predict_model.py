@@ -1,4 +1,4 @@
-# this script is for loading model and using it to make predictions
+# this script is for loading model and using it to make predictions.
 import pickle
 
 # Assumeing this is the previously trained model

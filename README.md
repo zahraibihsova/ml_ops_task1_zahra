@@ -24,6 +24,10 @@ Reproducible ML project scaffold powered by uv
 ├── models
 │   ├── predict_model.py
 │   ├── train_model.py
+├── notebooks
+│   ├── .gitkeep
+├── reports
+│   ├── .gitkeep
 ├── src
 │   ├── features
 │       ├── .gitkeep
@@ -33,10 +37,9 @@ Reproducible ML project scaffold powered by uv
 │   ├── eda.py
 │   ├── feature_engineering.py
 │   ├── model_selection.py
-├── .gitignore <- git IGNORES
-├── LICENSE
 ├── README.md <- readme for understanding
 ├── place_data.csv
+├── test.py
 ├── zahra-ibishova-eda.ipynb
 ├── zahra-ibishova-fe1.ipynb
 ├── zahra-ibishova-fe2 (1).ipynb

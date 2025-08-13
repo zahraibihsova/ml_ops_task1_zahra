@@ -27,13 +27,8 @@ Reproducible ML project scaffold powered by uv
 ├── reports
 │   ├── .gitkeep
 ├── src
-│   ├── data
-│       ├── .gitkeep
 │   ├── features
 │       ├── .gitkeep
-│   ├── models
-│       ├── predict_model.py
-│       ├── train_model.py
 │   ├── visualization
 │       ├── .gitkeep
 │       ├── __init__.py

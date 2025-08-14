@@ -1,6 +1,7 @@
 # My ML Project
 
-uvx cookiecutter gh:Elkhn/cookiecutter-uv-ml-template
+uvx cookiecutter 
+gh:Elkhn/cookiecutter-uv-ml-template
 
 cd <your-new-project>
 uv sync

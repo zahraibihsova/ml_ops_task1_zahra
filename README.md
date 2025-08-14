@@ -1,6 +1,10 @@
 # My ML Project
 
-cat << 'EOF' > README.md
+uvx cookiecutter 
+gh:Elkhn/cookiecutter-uv-ml-template
+
+cd <your-new-project>
+uv sync
 # My ML Project
 
 [![CI Build](https://github.com/zahraibihsova/ml_ops_task1_zahra/actions/workflows/ci.yml/badge.svg)](https://github.com/zahraibihsova/ml_ops_task1_zahra/actions/workflows/ci.yml)
